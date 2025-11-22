@@ -1,0 +1,3 @@
+Aluno: Aleksander - Aprovado
+Aluno: Pedro - Reprovado
+Aluno: Ana - Aprovado

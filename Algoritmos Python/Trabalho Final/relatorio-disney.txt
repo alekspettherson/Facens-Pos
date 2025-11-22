@@ -1,0 +1,64 @@
+=============================================
+        🎬 RELATÓRIO DE FILMES E SÉRIES       
+=============================================
+
+📊 ESTATÍSTICAS GERAIS
+---------------------------------------------
+Média de nota (IMDB): 6.58
+Média de nota (Metascore): 62.06
+Média de número de votos: 367
+
+🌎 IDIOMAS MAIS E MENOS USADOS
+---------------------------------------------
+Mais usados:
+  - English: 661 filmes
+  -  French: 29 filmes
+  -  Spanish: 24 filmes
+Menos usados:
+  - Hawaiian: 1 filmes
+  -  Brazilian Sign Language: 1 filmes
+  -  Latin: 1 filmes
+
+🎭 ATORES E DIRETORES
+---------------------------------------------
+Ator/Atriz mais frequente:
+  -  Clarence Nash: 23 aparições
+  - Pinto Colvig: 18 aparições
+  -  Jim Cummings: 12 aparições
+
+Ator/Atriz menos frequente:
+  - Ginnifer Goodwin: 1 aparições
+  -  Jason Bateman: 1 aparições
+  -  Jenny Slate: 1 aparições
+
+Diretor com mais filmes: Wilfred Jackson (20 filmes)
+Melhor diretor (IMDB): Irvin Kershner (nota 8.70)
+Melhor diretor (Metascore): Norman Ferguson, T. Hee, Wilfred Jackson, Jack Kinney, Hamilton Luske, Bill Roberts, Ben Sharpsteen (nota 99.00)
+
+📅 RANKING DE LANÇAMENTOS POR ANO
+---------------------------------------------
+  2019: 29 lançamentos
+
+📺 MELHORES SÉRIES
+---------------------------------------------
+Pior série no IMDB:
+  - Bizaardvark: Nota 3.50
+Pior série no MetaScore:
+  - None: Nota 0.0
+
+♻️ FILMES COM MAIS DE UMA VERSÃO (REMAKES)
+---------------------------------------------
+  Aladdin — versões em 1992, 2019
+  Alice in Wonderland — versões em 1951, 2010
+  Frankenweenie — versões em 1984, 2012
+  Freaky Friday — versões em 1976, 2003, 2018
+  Lady and the Tramp — versões em 1955, 2019
+  Pete's Dragon — versões em 1977, 2016
+  Swiss Family Robinson — versões em 1940, 1960
+  The Lion King — versões em 1994, 2019
+  The Parent Trap — versões em 1961, 1998
+  The Prince and the Pauper — versões em 1962, 1990
+
+Total de remakes identificados: 10
+
+=============================================

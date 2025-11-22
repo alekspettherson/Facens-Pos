@@ -1,0 +1,10 @@
+Escrevendo a linha 0 usando o loop!
+Escrevendo a linha 1 usando o loop!
+Escrevendo a linha 2 usando o loop!
+Escrevendo a linha 3 usando o loop!
+Escrevendo a linha 4 usando o loop!
+Escrevendo a linha 5 usando o loop!
+Escrevendo a linha 6 usando o loop!
+Escrevendo a linha 7 usando o loop!
+Escrevendo a linha 8 usando o loop!
+Escrevendo a linha 9 usando o loop!

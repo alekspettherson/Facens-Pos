@@ -1,0 +1,3 @@
+Aleksander,10,9,5
+Pedro,8,4,8
+Ana,5,10,9

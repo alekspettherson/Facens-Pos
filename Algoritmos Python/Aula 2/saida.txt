@@ -1,0 +1,8 @@
+0: Zero
+5: Positivo
+10: Positivo
+20: Positivo
+-5: Negativo
+-2: Negativo
+0: Zero
+1: Positivo

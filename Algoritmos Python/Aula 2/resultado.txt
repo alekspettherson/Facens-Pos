@@ -1,0 +1,3 @@
+Resultado da soma dos valores é: 49.0 
+Resultado da soma dos valores é: 49.0 
+Resultado da soma dos valores é: 49.0 
